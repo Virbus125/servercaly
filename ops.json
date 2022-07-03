@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "a7cb5d45-c792-33ff-8f71-6f8321233e55",
+    "name": "VIRBUS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cfda0de3-92cb-308e-8f90-873daebc0d55",
+    "name": "P_P_Okuratna",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
